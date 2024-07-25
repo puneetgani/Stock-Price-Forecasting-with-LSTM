@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter Notebook for forecasting stock prices using a Long Short-Term Memory (LSTM) neural network. The LSTM model is trained on historical stock price data to predict future prices, providing a valuable tool for financial analysis and trading strategies.
 
+![The-Prediction-Model-of-Stock-Price-Trend-Based-on-RNN-LSTM-and-GRU](https://github.com/user-attachments/assets/d62e0066-de11-4dcf-aeb1-07d5c1726cc4)
+
 ## Overview
 
 Stock price forecasting is a challenging task due to the complex and dynamic nature of financial markets. This project leverages the power of LSTM networks, a type of recurrent neural network (RNN), to model and predict stock prices. The notebook demonstrates data preprocessing, model building, training, and evaluation steps.
